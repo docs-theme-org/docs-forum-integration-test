@@ -169,4 +169,4 @@ sezione “amministrazione trasparente/Altri contenuti/Accessibilità e
 Catalogo di dati, metadati e banche dati”.
 
 .. forum_italia::
-   :topic_id: 96
+   :topic_id: 15

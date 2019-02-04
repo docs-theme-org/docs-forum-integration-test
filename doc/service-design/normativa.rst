@@ -348,4 +348,4 @@ Comunicazione pubblica
     delle pubbliche amministrazione.
 
 .. forum_italia::
-   :topic_id: 98
+   :topic_id: 17

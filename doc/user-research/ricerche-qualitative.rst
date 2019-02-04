@@ -86,4 +86,4 @@ Uno dei rischi dei focus group è quello di avere persone con opinioni molto for
 Ciascun focus group viene documentato tramite la raccolta di note relative alle informazioni e osservazioni che emergono durante lo scambio: per questo è bene prevedere una persona dedicata alla raccolta di appunti, in aggiunta al moderatore. Le sessioni possono inoltre essere documentate tramite la registrazione video (in questo caso è necessario chiedere ai partecipanti di firmare il `modulo di liberatoria <https://docs.google.com/document/d/1JVctSWSJN6tJeno70OjA8Tl_4rs0dIJ5XLoOQbIgo24/edit?usp=sharing>`_). I materiali vengono utilizzati per costruire un report dei focus group che va ad informare le successive attività di sviluppo delle soluzioni di
 
 .. forum_italia::
-   :topic_id: 104
+   :topic_id: 23

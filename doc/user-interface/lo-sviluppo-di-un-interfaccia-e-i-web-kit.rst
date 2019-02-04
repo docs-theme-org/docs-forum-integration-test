@@ -407,4 +407,4 @@ tenuti a contribuire, sempre utilizzando GitHub, segnalando componenti mancanti,
 suggerendo errori e mettendo a disposizione di tutti componenti già realizzate.
 
 .. forum_italia::
-   :topic_id: 102
+   :topic_id: 21

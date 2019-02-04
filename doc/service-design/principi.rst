@@ -79,4 +79,4 @@ Il piano di azione della UE per l’e-government ha varato un `piano di azione
 **Fiducia e sicurezza**: tutte le iniziative dovrebbero andare oltre la semplice conformità con il quadro normativo in materia di protezione dei dati personali, tutela della vita privata e sicurezza informatica, integrando questi elementi sin dalla fase di progettazione. Si tratta di presupposti importanti per rafforzare la fiducia nei servizi digitali e favorirne la diffusione.
 
 .. forum_italia::
-   :topic_id: 99
+   :topic_id: 18

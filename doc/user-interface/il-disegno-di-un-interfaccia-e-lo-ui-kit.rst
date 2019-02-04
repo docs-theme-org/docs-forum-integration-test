@@ -595,4 +595,4 @@ Esso è inoltre pubblicato per consultazione su InVision:
 - Vedi lo `UI Kit su InVision <https://invis.io/RJFGS2UC3HS>`_
 
 .. forum_italia::
-   :topic_id: 101
+   :topic_id: 20

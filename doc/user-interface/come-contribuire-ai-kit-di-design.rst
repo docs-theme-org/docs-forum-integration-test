@@ -41,4 +41,4 @@ lavoro. Ogni repository ha la propria sezione dedicata alle Issues:
 * Pagina delle issue del `React Kit <https://github.com/italia/design-react-kit/issues>`_ e dell’`Angular Kit <https://github.com/italia/design-angular-kit/issues>`_
 
 .. forum_italia::
-   :topic_id: 100
+   :topic_id: 19

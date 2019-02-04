@@ -76,4 +76,4 @@ prototipazione. Nel paragrafo seguente affronteremo invece i principi e le
 linee guida per il design delle interfacce.
 
 .. forum_italia::
-   :topic_id: 103
+   :topic_id: 22
